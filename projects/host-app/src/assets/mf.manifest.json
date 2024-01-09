@@ -1,0 +1,12 @@
+
+
+{
+	"mfeApp": {
+		"remoteEntry": "http://localhost:4300/remoteEntry.js",
+
+		"exposedModule":  "./Module",
+		"displayName": "TodoList",
+		"routePath": "todo-list",
+		"ngModuleName": "TodoListModule"
+	}
+}
